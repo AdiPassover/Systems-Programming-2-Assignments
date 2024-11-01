@@ -1,0 +1,10 @@
+a south
+j south
+a southeast
+a east
+b northeast
+a east
+b northwest
+b northeast
+j southeast
+j southwest

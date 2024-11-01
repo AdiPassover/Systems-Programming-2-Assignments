@@ -1,0 +1,293 @@
+a south
+a southwest
+g south
+l west
+m north
+i southeast
+i southst
+i sasdadfsdfaf
+i southwest
+p southwest
+o south
+o southeast
+c south
+f east
+b south
+b southeast
+build
+road
+b east
+end
+trade
+resource
+0 1 0 0 0
+0 0 1 0 0
+Blue
+y
+card
+buy
+end
+build
+road
+n west
+end
+3 0 0 0 0
+end
+card
+play
+0
+end
+card
+buy
+trade
+resource
+0 0 0 1 0
+1 0 0 0 0
+Green
+y
+end
+end
+card
+play
+end
+end
+0 0 0 0 3
+end
+end
+card
+play
+0
+2
+3
+build
+settlement
+q north
+end
+trade
+resource
+0 0 0 2 0
+0 1 0 0 0
+Blue
+y
+end
+end
+build
+city
+q north
+end
+2 1 0 0 0
+end
+end
+card
+play
+end
+trade
+resource
+1 0 0 0 0
+0 0 1 0 0
+Blue
+y
+build
+settlement
+b northeast
+end
+card
+play
+end
+trade
+resource
+0 0 0 1 0
+1 0 0 0 0
+Green
+y
+trade
+resource
+0 0 0 1 0
+0 1 0 0 0
+Red
+y
+build
+road
+o southwest
+build
+settlement
+r north
+end
+end
+end
+end
+end
+trade
+resource
+0 1 0 0 0
+0 0 0 1 0
+Green
+y
+build
+city
+c south
+end
+end
+build
+city
+b south
+build
+road
+d east
+build
+road
+d southeast
+end
+trade
+resource
+0 0 0 0 1
+0 0 0 1 0
+Blue
+y
+end
+card
+buy
+card
+buy
+card
+play
+1
+i southeast
+r east
+end
+end
+end
+build
+settlement
+n north
+build
+settlement
+r southeast
+end
+end
+end
+trade
+resource
+0 0 1 0 0
+0 0 0 0 1
+Red
+y
+card
+buy
+trade
+card
+1
+Red
+end
+trade
+resource
+1 0 0 0 0
+0 0 1 0 0
+Blue
+y
+build
+settlement
+d south
+end
+trade
+knight
+Blue
+1
+y
+card
+play
+0
+0
+build
+road
+k southeast
+build
+road
+k southwest
+build
+settlement
+o north
+end
+0 6 0 0 0
+card
+play
+0
+trade
+resource
+0 0 1 0 0
+0 0 0 0 1
+Red
+y
+card
+buy
+card
+play
+0
+end
+end
+end
+trade
+resource
+0 0 2 0 0
+0 0 0 0 1
+Green
+y
+card
+buy
+card
+play
+0
+r northwest
+r west
+trade
+resource
+0 0 1 0 0
+1 0 0 0 0
+Green
+y
+build
+settlement
+q southeast
+end
+end
+end
+end
+build
+road
+d southwest
+end
+end
+trade
+resource
+0 0 2 0 0
+0 0 0 0 1
+Red
+y
+card
+buy
+end
+end
+end
+end
+end
+end
+trade
+resource
+0 0 10 0 0
+3 0 0 0 0
+Green
+y
+card
+play
+0
+1
+build
+road
+q southeast
+build
+road
+q southwest
+build
+settlement
+q southwest
+end

@@ -1,0 +1,13 @@
+a south
+a southeast
+a east
+a northeast
+d south
+d southeast
+d east
+d southeast
+i south
+i east
+d south
+d south
+a south
